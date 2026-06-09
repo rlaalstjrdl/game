@@ -21,6 +21,11 @@ config/features=PackedStringArray("4.6")
 [autoload]
 
 Inventory="*res://scripts/inventory.gd"
+PhantomCameraManager="*res://addons/phantom_camera/scripts/managers/phantom_camera_manager.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/phantom_camera/plugin.cfg")
 
 [rendering]
 

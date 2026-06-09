@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b38r0bfhrmfnp"
-path="res://.godot/imported/bark_0021.jpg-236944a9ba28ef1b7d4dbaea761830c1.ctex"
+uid="uid://b41gkly0318cx"
+path="res://.godot/imported/bark_0021.jpg-7c396b741e19d41475f577a0d0b9ec05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://public/tree/Tree.fbm/bark_0021.jpg"
-dest_files=["res://.godot/imported/bark_0021.jpg-236944a9ba28ef1b7d4dbaea761830c1.ctex"]
+source_file="res://public/Tree/Tree.fbm/bark_0021.jpg"
+dest_files=["res://.godot/imported/bark_0021.jpg-7c396b741e19d41475f577a0d0b9ec05.ctex"]
 
 [params]
 

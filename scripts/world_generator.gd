@@ -36,7 +36,7 @@ func update_chunks():
 		for z in range(-chunk_radius, chunk_radius + 1):
 			visible_chunks.append(current_chunk + Vector2(x, z))
 			
-	# Spawn new chunks
+
 	for c_pos in visible_chunks:
 		if not active_chunks.has(c_pos):
 			var chunk = chunk_scene.instantiate()
@@ -45,7 +45,7 @@ func update_chunks():
 			chunk.generate(c_pos, noise)
 			active_chunks[c_pos] = chunk
 			
-	# Unload old chunks
+
 	var keys_to_remove = []
 	for c_pos in active_chunks.keys():
 		if not visible_chunks.has(c_pos):

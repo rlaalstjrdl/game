@@ -1,0 +1,9 @@
+res://scripts/chunk.gd
+res://scripts/player.gd
+res://scripts/damage_text.gd
+res://scripts/inventory.gd
+res://scripts/inventory_slot.gd
+res://scripts/inventory_ui.gd
+res://scripts/pig.gd
+res://scripts/world_generator.gd
+res://scenes/pig.tscn
